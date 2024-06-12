@@ -1,4 +1,4 @@
-package mystrings
+package datatypes
 
 import (
 	"fmt"
